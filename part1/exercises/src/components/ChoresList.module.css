@@ -11,3 +11,10 @@
    font-size: 3em;
    text-decoration: underline;
 }
+
+.chores {
+   background-color: teal;
+   border-radius: 2cap;
+   border-style: double;
+   border-width: 1cap;
+}
