@@ -7,8 +7,8 @@ class RecipeDescription extends React.Component{
         return (
         <div> 
             <div>
-                <h1>Recipe Title</h1>
-                 <p>Short recipe description</p>
+                <h1>The Best Crispy Roast Potatoes Ever Recipe</h1>
+                 <p>These are the most flavorful crispy roast potatoes you'll ever make. And they just happen to be gluten-free and vegan (if you use oil) to boot.</p>
             </div>
             <RecipeAuthor />
         </div>

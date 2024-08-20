@@ -1,0 +1,6 @@
+.ingredientList {
+    list-style-position: inside;
+    list-style: none;
+    text-align: center;
+    margin-left: -20px;
+ }

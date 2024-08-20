@@ -5,7 +5,7 @@ export default function BookList() {
    let book3 = "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432468943i/70535.jpg";
 
    return (
-      <div>
+      <div class="">
          <h3>{pageTitle}</h3>
          <img src={book1} alt="Buddhism Without Beliefs by Stephen Batchelor" />
          <img src={book2} alt="The Road by Cormac McCarthy" />

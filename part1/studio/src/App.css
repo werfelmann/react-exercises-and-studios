@@ -40,3 +40,12 @@
 .read-the-docs {
   color: #888;
 }
+
+.recipePhotoBlock {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.recipe {
+  text-align: center;
+}
