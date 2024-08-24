@@ -1,17 +1,20 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+     "name": "Best Crispy Roast Potatoes",
+     "author": "J. Kenji Lopez-Alt",
+     "description": "These are the most flavorful roast potatoes you'll ever make.",
+     "website": "https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe",
+     "recipeImage": "https://www.seriouseats.com/thmb/wcehoNZte2so8f9pHU1XSjDLRRg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/20211201-crispy-roasted-potatoes-vicky-wasik-45-d75608ce325e4ffbab665084eba642c8.jpg",
+     "authorImage": "https://www.seriouseats.com/thmb/knstpu30mxefOzHwl2fE17RSIKE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kenji-lopez-alt-9e7ff3ba54e24328a853d774a05fd4b8.jpg",
      "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
+       "potatoes",
+       "salt",
+       "baking soda",
+       "extra virgin olive oil",
+       "rosemary",
+       "garlic",
+       "black pepper",
+       "parsley"
      ]
    }
  ]
